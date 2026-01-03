@@ -114,6 +114,7 @@ An interactive Power BI dashboard was built using the processed dataset.
 ---
 
 ## 📁 Repository Structure
+```
 ├── data/
 │ ├── readme.md
 │ ├── vendor_sales_summary.csv
@@ -135,7 +136,7 @@ An interactive Power BI dashboard was built using the processed dataset.
 │ └── project_report.docx
 │
 └── README.md
-
+```
 
 ---
 
